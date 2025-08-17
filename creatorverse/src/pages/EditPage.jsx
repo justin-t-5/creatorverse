@@ -1,6 +1,6 @@
 function EditPage(){
     return(
-        <><p>Edit Page</p></>
+        <><p>Edit Page (testing how git works) </p></>
     )
 }
 
